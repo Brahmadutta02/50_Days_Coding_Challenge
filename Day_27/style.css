@@ -1,0 +1,28 @@
+body {
+    background: url("./889165.jpg") no-repeat center center fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #040404;
+}
+
+#title {
+    height: 150px;
+    width: 400px;
+}
+
+#board {
+    width: 360px;
+    height: 360px;
+    background-color: lightblue;
+    border: 10px solid #072134;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img {
+    width: 118px;
+    height: 118px;
+    border: 1px solid #0c67ae;
+}
